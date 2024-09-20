@@ -1,0 +1,9 @@
+Folder Structure:
+
+- Report.pdf
+- Data Preparation and Visualization.ipynb
+- Modeling.py
+
+-> In response to RAM limitations, we opted to divide the project code into two files: one for Data Preparation and Visualization, and the other for advanced models and evalation."
+
+Thanks for your understanding!
